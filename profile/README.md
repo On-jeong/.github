@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -28,3 +26,103 @@
     <br />
   </p>
 </div>
+
+<!-- TABLE OF CONTENTS -->
+### Table of Contents
+  <ol>
+    <li><a href="#프로젝트-소개">프로젝트 소개</a></li>
+    <li><a href="#프로젝트-목표">프로젝트 목표</a></li>
+    <li><a href="#aws-public-cloud-architecture">AWS Public Cloud Architecture</a></li>
+    <li><a href="#tech-stacks">Tech Stacks</a></li>
+    <li><a href="#contributors">Contributors</a></li>
+  </ol>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+### 프로젝트 소개
+
+**온정**은 `Spring Boot`와 `React Native`를 기반으로 가족들과 같이 꽃을 키워나가며 소통하는 **가족커뮤니케이션 앱**을 구현한 프로젝트입니다.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+### 프로젝트 목표
+
+- 
+- 
+- 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+### AWS Public Cloud Architecture
+![image]()
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### Tech Stacks
+<table>
+	<tr><th rowspan="7">⚛Front-end</th><td>Language</td><td>JavaScript</td></tr>
+	<tr><td>Library</td><td>React Native</td></tr>
+	<tr><td>State Container</td><td>Redux</td></tr>
+	<tr><td>Component</td><td>Styled-Components</td></tr>
+	<tr><td>Asynchronous</td><td>Axios</td></tr>
+	<tr><th rowspan="10">🌱Back-end</th><td>Language</td><td>Java 11</td></tr>
+	<tr><td>Framework</td><td>Spring Boot 2.4.2</td></tr>
+	<tr><td>ORM</td><td>Spring Data JPA</td></tr>
+	<tr><td>Authorization</td><td>Spring Security, JWT, Firebase</td></tr>
+	<tr><td>API Documentation</td><td>Swagger</td></tr>
+	<tr><td>Database</td><td>MySQL, H2, Redis</td></tr>
+	<tr><td>Test</td><td>JUnit5, Mockito</td></tr>
+	<tr><td>DevOps</td><td>Docker, Jenkins, Github Action</td></tr>
+	<tr><th rowspan="3">👨‍👩‍👦‍👦Collaboration</th><td>Api Test</td><td>Postman, Swagger</td></tr>
+	<tr><td>Communication</td><td>Notion, Google Meet, Zoom Meet</td></tr>
+	<tr><td>Version Control</td><td>Github</td></tr>
+	<tr><th>🛠AWS Public Cloud Service</th><td colspan="2">EC2, RDS, S3, Route 53, VPC, Internet gateway, NAT gateway, NLB, Certificate Manager </td></tr>
+</table>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/haeun-i">
+        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/profile/24c4b2d3-be1c-4bd8-8d95-79e7a66ce23eonjeong%20logo.png?v=4" width="110px;" alt=""/><br />
+        <sub><b>김하은</b></sub></a><br />
+        <sub><b>Back-end</b></sub></a><br />
+        <a href="https://github.com/haeun-i" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Junhui0u0">
+        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/profile/24c4b2d3-be1c-4bd8-8d95-79e7a66ce23eonjeong%20logo.png?v=4" width="110px;" alt=""/><br />
+        <sub><b>박준희</b></sub></a><br />
+        <sub><b>Back-end</b></sub></a><br />
+	<sub><b></b></sub></a><br />
+        <a href="https://github.com/Junhui0u0" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hyeonjin25">
+        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/profile/24c4b2d3-be1c-4bd8-8d95-79e7a66ce23eonjeong%20logo.png?v=4" width="110px;" alt=""/><br />
+        <sub><b>소현진</b></sub></a><br />
+        <sub><b>Front-end</b></sub></a><br />  
+	<sub><b></b></sub></a><br />
+        <a href="https://github.com/hyeonjin25" title="Code">💻</a>
+    </td>
+  </tr>
+</table>  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
