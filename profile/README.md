@@ -83,10 +83,10 @@
 	<tr><td>Database</td><td>MySQL, H2, Redis</td></tr>
 	<tr><td>Test</td><td>JUnit5, Mockito</td></tr>
 	<tr><td>DevOps</td><td>Docker, Jenkins, Github Action</td></tr>
-	<tr><th rowspan="3">👨‍👩‍👦‍👦Collaboration</th><td>Api Test</td><td>Postman, Swagger</td></tr>
+	<tr><th rowspan="3">👩‍👩‍👧Collaboration</th><td>Api Test</td><td>Postman, Swagger</td></tr>
 	<tr><td>Communication</td><td>Notion, Google Meet, Zoom Meet</td></tr>
 	<tr><td>Version Control</td><td>Github</td></tr>
-	<tr><th>🛠AWS Public Cloud Service</th><td colspan="2">EC2, RDS, S3, Route 53, VPC, Internet gateway, NAT gateway, NLB, Certificate Manager </td></tr>
+	<tr><th>⛏️AWS Public Cloud Service</th><td colspan="2">EC2, RDS, S3, Route 53, VPC, Internet gateway, NAT gateway, NLB, Certificate Manager </td></tr>
 </table>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -109,7 +109,6 @@
         <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/profile/24c4b2d3-be1c-4bd8-8d95-79e7a66ce23eonjeong%20logo.png?v=4" width="110px;" alt=""/><br />
         <sub><b>박준희</b></sub></a><br />
         <sub><b>Back-end</b></sub></a><br />
-	<sub><b></b></sub></a><br />
         <a href="https://github.com/Junhui0u0" title="Code">💻</a>
     </td>
     <td align="center">
@@ -117,7 +116,6 @@
         <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/profile/24c4b2d3-be1c-4bd8-8d95-79e7a66ce23eonjeong%20logo.png?v=4" width="110px;" alt=""/><br />
         <sub><b>소현진</b></sub></a><br />
         <sub><b>Front-end</b></sub></a><br />  
-	<sub><b></b></sub></a><br />
         <a href="https://github.com/hyeonjin25" title="Code">💻</a>
     </td>
   </tr>
