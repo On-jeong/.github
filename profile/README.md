@@ -70,12 +70,12 @@
 
 ### Tech Stacks
 <table>
-	<tr><th rowspan="7">⚛Front-end</th><td>Language</td><td>JavaScript</td></tr>
+	<tr><th rowspan="5">⚛Front-end</th><td>Language</td><td>JavaScript</td></tr>
 	<tr><td>Library</td><td>React Native</td></tr>
 	<tr><td>State Container</td><td>Redux</td></tr>
 	<tr><td>Component</td><td>Styled-Components</td></tr>
 	<tr><td>Asynchronous</td><td>Axios</td></tr>
-	<tr><th rowspan="10">🌱Back-end</th><td>Language</td><td>Java 11</td></tr>
+	<tr><th rowspan="8">🌱Back-end</th><td>Language</td><td>Java 11</td></tr>
 	<tr><td>Framework</td><td>Spring Boot 2.4.2</td></tr>
 	<tr><td>ORM</td><td>Spring Data JPA</td></tr>
 	<tr><td>Authorization</td><td>Spring Security, JWT, Firebase</td></tr>
