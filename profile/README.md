@@ -62,7 +62,7 @@
 
 
 ### AWS Public Cloud Architecture
-![image]()
+![image](https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/%EC%98%A8%EC%A0%95+aws%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EA%B5%AC%EC%A1%B0.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
