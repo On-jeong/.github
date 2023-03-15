@@ -62,7 +62,7 @@
 
 
 ### AWS Public Cloud Architecture
-![image](https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/%EC%98%A8%EC%A0%95+aws+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EA%B5%AC%EC%A1%B0.png)
+![image](https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/%EC%98%A8%EC%A0%95+aws+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EA%B5%AC%EC%A1%B0_2.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -106,7 +106,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Junhui0u0">
-        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/junhui.jpg" width="110px;" height="110px;" alt=""/><br />
+        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/junhui_2.jpg" width="110px;" height="110px;" alt=""/><br />
         <sub><b>박준희</b></sub></a><br />
         <sub><b>Back-end</b></sub></a><br />
         <a href="https://github.com/Junhui0u0" title="Code">💻</a>
