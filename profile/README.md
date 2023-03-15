@@ -106,7 +106,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Junhui0u0">
-        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/profile/24c4b2d3-be1c-4bd8-8d95-79e7a66ce23eonjeong%20logo.png?v=4" width="110px;" alt=""/><br />
+        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/junhui.jpg?v=4" width="110px;" alt=""/><br />
         <sub><b>박준희</b></sub></a><br />
         <sub><b>Back-end</b></sub></a><br />
         <a href="https://github.com/Junhui0u0" title="Code">💻</a>
