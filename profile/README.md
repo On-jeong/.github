@@ -72,7 +72,7 @@
 <table>
 	<tr><th rowspan="5">⚛Front-end</th><td>Language</td><td>JavaScript</td></tr>
 	<tr><td>Library</td><td>React Native</td></tr>
-	<tr><td>State Container</td><td>Redux</td></tr>
+	<tr><td>State Container</td><td>react-query & Recoil</td></tr>
 	<tr><td>Component</td><td>Styled-Components</td></tr>
 	<tr><td>Asynchronous</td><td>Axios</td></tr>
 	<tr><th rowspan="8">🌱Back-end</th><td>Language</td><td>Java 11</td></tr>
