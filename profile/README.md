@@ -99,21 +99,21 @@
   <tr>
     <td align="center">
       <a href="https://github.com/haeun-i">
-        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/haeun.jpg" width="110px;" height="110px;" alt=""/><br />
+        <img src="https://avatars.githubusercontent.com/u/76279010?v=4" width="110px;" alt=""/><br />
         <sub><b>김하은</b></sub></a><br />
         <sub><b>Back-end</b></sub></a><br />
         <a href="https://github.com/haeun-i" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/Junhui0u0">
-        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/junhui_2.jpg" width="110px;" height="110px;" alt=""/><br />
+        <img src="https://avatars.githubusercontent.com/u/71383600?v=4" width="110px;" alt=""/><br />
         <sub><b>박준희</b></sub></a><br />
         <sub><b>Back-end</b></sub></a><br />
         <a href="https://github.com/Junhui0u0" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/hyeonjin25">
-        <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/profile/24c4b2d3-be1c-4bd8-8d95-79e7a66ce23eonjeong%20logo.png?v=4" width="110px;" alt=""/><br />
+        <img src="https://avatars.githubusercontent.com/u/65444249?v=4" width="110px;" alt=""/><br />
         <sub><b>소현진</b></sub></a><br />
         <sub><b>Front-end</b></sub></a><br />  
         <a href="https://github.com/hyeonjin25" title="Code">💻</a>
