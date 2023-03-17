@@ -6,33 +6,20 @@
   <h3 align="center">Onjeong-Project</h3>
 
   <p align="center">
-    <a href="https://github.com/On-jeong"><strong>1. Explore the Organization</strong></a><br>
-    <a href="https://github.com/On-jeong/Onjeong-front"><strong>2. Explore Front-end Repository</strong></a><br>
-    <a href="https://github.com/On-jeong/Onjeong-back"><strong>3. Explore Back-end Repository</strong></a><br>
-    <a href="https://www.onjeong-app.com/swagger-ui.html#"><strong>4. Explore API Documents</strong></a><br>    
-    <a href="https://www.erdcloud.com/d/9JxX7unXDjeZN5XHC"><strong>5. Explore ERD</strong></a><br>    
-    <br />
+    <a href="https://github.com/On-jeong/Onjeong-front"><strong>1. Explore Front-end Repository</strong></a><br>
+    <a href="https://github.com/On-jeong/Onjeong-back"><strong>2. Explore Back-end Repository</strong></a><br>
+    <a href="https://www.onjeong-app.com/swagger-ui.html#"><strong>3. Explore API Documents</strong></a><br>    
+    <a href="https://www.erdcloud.com/d/9JxX7unXDjeZN5XHC"><strong>4. Explore ERD</strong></a><br>    
     <br />
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-### Table of Contents
-  <ol>
-    <li><a href="#프로젝트-소개">프로젝트 소개</a></li>
-    <li><a href="#프로젝트-목표">프로젝트 목표</a></li>
-    <li><a href="#aws-public-cloud-architecture">AWS Public Cloud Architecture</a></li>
-    <li><a href="#tech-stacks">Tech Stacks</a></li>
-    <li><a href="#contributors">Contributors</a></li>
-  </ol>
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-
 ### 프로젝트 소개
 
-**온정**은 `Spring Boot`와 `React Native`를 기반으로 가족들과 같이 꽃을 키워나가며 소통하는 **가족커뮤니케이션 앱**을 구현한 프로젝트입니다. <br/><br/>
+**온정**은 가족들과 같이 꽃을 키워나가며 소통하는 **가족커뮤니케이션 앱**입니다. <br/><br/>
 
 - 저희 서비스를 통해 가족 구성원들이 서로 소통하면서 아래와 같은 `여러 활동들`을 경험할 수 있습니다.
    - 가족 프로필 생성
@@ -42,30 +29,11 @@
    - 편지 보내기
 - 이 다양한 활동을 통해 가족구성원들이 함께 꽃을 피워냄으로써 **가족애**를 키우는 것이 저희 서비스 목표입니다.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-### 프로젝트 목표
-
-- 역할을 분담하여 기획한 서비스를 **구현**하고 **배포**해봅니다.
-   - 구현하는 과정에서 Front-end와 Back-end가 **협업**하는 과정을 이해합니다.
-       - RESTful API를 직접 설계하고 API를 통한 HTTP 통신을 겪으며 협업 능력을 기릅니다.
-       - 자신이 맡은 부분을 남에게 설명할 수 있는 의사소통 능력을 기릅니다.
-   - 단순히 구현 후 끝나는 것이 아닌 **코드 리뷰**와 **피드백**을 통해 함께 성장합니다.
-   - 기존의 코드를 지속적으로 개선하기 위해 **리팩토링**을 진행합니다.
-- Spring Boot와 React Native를 기반으로 다양한 기술 스택을 **학습**하고 **적용**합니다.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 
 ### AWS Public Cloud Architecture
 ![image](https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/%EC%98%A8%EC%A0%95+aws+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EA%B5%AC%EC%A1%B0_2.png)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -90,7 +58,6 @@
 	<tr><th>⛏️AWS Public Cloud Service</th><td colspan="2">EC2, RDS, S3, Route 53, VPC, Internet gateway, NAT gateway, NLB, Certificate Manager </td></tr>
 </table>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
