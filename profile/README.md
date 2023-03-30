@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://github.com/On-jeong/Onjeong-front"><strong>1. Explore Front-end Repository</strong></a><br>
     <a href="https://github.com/On-jeong/Onjeong-back"><strong>2. Explore Back-end Repository</strong></a><br>
-    <a href="https://www.onjeong-app.com/swagger-ui.html#"><strong>3. Explore API Documents</strong></a><br>    
+    <a href="https://www.onjeong-app.com/swagger-ui.html/"><strong>3. Explore API Documents</strong></a><br>    
     <a href="https://www.erdcloud.com/d/9JxX7unXDjeZN5XHC"><strong>4. Explore ERD</strong></a><br>    
     <br />
   </p>
