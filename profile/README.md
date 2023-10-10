@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.onjeong-app.com/">
-    <img src="https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/profile/24c4b2d3-be1c-4bd8-8d95-79e7a66ce23eonjeong%20logo.png?s=200&v=4" alt="Logo" width="80" height="80">
+    <img src="https://github.com/On-jeong/.github/assets/71383600/2a83f153-af03-45b5-b8d4-54ed5cf31737" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Onjeong-Project</h3>
@@ -32,7 +32,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### AWS Public Cloud Architecture
-![image](https://onjeong-prod.s3.ap-northeast-2.amazonaws.com/git/%EC%98%A8%EC%A0%95+aws+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EA%B5%AC%EC%A1%B0_2.png)
+![image](https://github.com/On-jeong/Onjeong-back/assets/71383600/8575fd0f-90aa-4cfb-b972-5641255b6499)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
